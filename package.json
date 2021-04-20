@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/JarnoVoogd/Tech-6/issues"
   },
-  "homepage": "https://github.com/JarnoVoogd/Tech-6#readme"
+  "homepage": "https://github.com/JarnoVoogd/Tech-6#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
