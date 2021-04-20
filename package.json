@@ -1,0 +1,26 @@
+{
+  "name": "tech-6",
+  "version": "1.0.0",
+  "description": "project tech applicatie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarnoVoogd/Tech-6.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "project",
+    "tech",
+    "server"
+  ],
+  "author": "Jarno Voogd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarnoVoogd/Tech-6/issues"
+  },
+  "homepage": "https://github.com/JarnoVoogd/Tech-6#readme"
+}
